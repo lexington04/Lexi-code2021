@@ -9,7 +9,7 @@ This deep neural network reads and analyzes data sets with an end goal of identi
 Use:
 
 ```bash
-git clone https://github.com/shiragg1/icr-cw-dnn.git master
+git clone -b master git@github.com:shiragg1/icr-cw-dnn.git
 ```
 to clone the repository and access our code. Set the correct path in cw-dnn.py and set the four data files to the file you wish to run.
 To download the data files, run:
